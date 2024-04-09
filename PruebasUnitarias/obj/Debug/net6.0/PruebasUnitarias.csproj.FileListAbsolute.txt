@@ -1,0 +1,14 @@
+D:\PruebasUnitarias\PruebasUnitarias\bin\Debug\net6.0\PruebasUnitarias.exe
+D:\PruebasUnitarias\PruebasUnitarias\bin\Debug\net6.0\PruebasUnitarias.deps.json
+D:\PruebasUnitarias\PruebasUnitarias\bin\Debug\net6.0\PruebasUnitarias.runtimeconfig.json
+D:\PruebasUnitarias\PruebasUnitarias\bin\Debug\net6.0\PruebasUnitarias.dll
+D:\PruebasUnitarias\PruebasUnitarias\bin\Debug\net6.0\PruebasUnitarias.pdb
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.AssemblyInfoInputs.cache
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.AssemblyInfo.cs
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.csproj.CoreCompileInputs.cache
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.dll
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\refint\PruebasUnitarias.dll
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.pdb
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\PruebasUnitarias.genruntimeconfig.cache
+D:\PruebasUnitarias\PruebasUnitarias\obj\Debug\net6.0\ref\PruebasUnitarias.dll
